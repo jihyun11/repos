@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Notpad\Notpad\bin\Debug\Notpad.exe.config
+C:\Users\User\source\repos\Notpad\Notpad\bin\Debug\Notpad.exe
+C:\Users\User\source\repos\Notpad\Notpad\bin\Debug\Notpad.pdb
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.Form1.resources
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.Form2.resources
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.Form3.resources
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.Properties.Resources.resources
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.exe
+C:\Users\User\source\repos\Notpad\Notpad\obj\Debug\Notpad.pdb
