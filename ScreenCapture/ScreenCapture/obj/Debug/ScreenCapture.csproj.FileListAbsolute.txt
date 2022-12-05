@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe.config
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Form1.resources
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Properties.Resources.resources
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.exe
+C:\Users\User\source\repos\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.pdb
